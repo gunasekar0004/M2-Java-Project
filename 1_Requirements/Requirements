@@ -1,0 +1,10 @@
+Personal Diary Management System Personal Diary or simples we says notepad.
+Since our past period we use note the persoal information in the personal diary. 
+Now we can use our application to note the personal sceret in the our application we can acess the information by enterning the date and duration of the message.
+High Level Requirements 
+H1-Login to the user
+H2-Easily user can Add the data 
+H3-It Can be accessed by filenames
+Low Level Requirements
+L1-User has giver their email id and phone number.
+L2-User can delete their information
